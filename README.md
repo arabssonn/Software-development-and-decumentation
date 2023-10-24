@@ -1,3 +1,7 @@
-this reposertory shall 
+#SDD Section 1 Course 
 
-for exampell this shall include 
+this repository shall contain some samples for this course. For example, this shall include
+
+.MarkDown
+.AsciiDoc
+.Word Documents 
