@@ -2,6 +2,6 @@
 
 this repository shall contain some samples for this course. For example, this shall include
 
-.MarkDown
-.AsciiDoc
-.Word Documents 
+- MarkDown
+- asciidoc
+- Word Documents 
