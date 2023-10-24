@@ -2,7 +2,7 @@
 
 this repository shall contain some samples for this course.
 
-For example, this shall include
+For example, this shall include.
 
 - MarkDown
 - asciidoc
