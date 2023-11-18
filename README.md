@@ -6,4 +6,7 @@ For example, this shall include.
 
 - MarkDown
 - asciidoc
-- Word Documents 
+- Word Documents
+- Drow.io
+- Figma
+
