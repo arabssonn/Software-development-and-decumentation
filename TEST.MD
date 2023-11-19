@@ -71,6 +71,6 @@ Creeping dominion yielding void without greater. Creeping hath them make fill ma
 - inline Links: [Visit me] (https://https://www.asu.edu.jo/en/Pages/default.aspx)
 - [visit ASU] (https://www.asu.edu.jo/en/Pages/default.aspx)
 
-- Image inclusion: ![LOGO](/Images/ASU.jpeg)
--![Markdown Logo](/Images/ASU.jpeg)
+- Image inclusion: ![LOGO](https://www.asu.edu.jo/ar/News/PublishingImages/224/3.jpg?RenditionID=8)
+- ![Markdown Logo](/Images/ASU.jpeg)
 
