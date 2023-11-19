@@ -1,4 +1,4 @@
-#Test Document 
+# Test Document 
 
 Divide called morning winged fowl void there yielding life itself hath years dry moving his open, waters meat creature wherein make.
 
@@ -6,7 +6,7 @@ Fifth earth. First upon it every under from they're fourth for very brought let.
 
 Bearing fourth waters great spirit bearing said. A of dominion dominion was given called seas form. God, have make over Isn't, together brought kind. Winged fruitful of.
 
-##Section 1
+## Section 1
 
 Beginning likeness heaven. Hath form likeness given their can't bearing void divide gathered, there dominion in cattle fly, set to subdue for second god very stars blessed tree and god be moving. Green place For waters herb winged dominion us very image creeping, shall creeping moved rule all make male together also.
 
