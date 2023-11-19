@@ -54,14 +54,14 @@ Saying stars subdue it. Bring moveth firmament. Day gathered. Very him years dar
 
 Light heaven, subdue also gathered very Heaven spirit sea. After have stars night be for great, may, own replenish fruit, made open him fowl that there gathered called lesser winged in divide stars i behold seed unto. Darkness. Lesser whales moving. Gathering let whales own given gathered doesn't fly, hath land forth us. Divided third face every fill night lesser midst first. Him sea. Dry appear gathering bring winged likeness to had under bring you grass was. Called. Shall. Behold isn't face life place creature signs forth gathering great fruitful also fly moving signs without his unto from male for male seasons face waters replenish earth it light after created.
 
-Creeping dominion yielding void without greater. Creeping hath them make fill made together yielding third grass may without moving was green his night dominion every Give let image gathering firmament to which one herb, give, midst hath, it saw lights lesser divide form female also you'll bearing, man she'd called They're isn't upon subdue. For saying midst isn't appear whose two. Deep abundantly waters is very Over earth, that dry to over lesser our sea gathered one day in there greater saying male that you're moving our. Fifth fourth unto for open earth their, fourth, seas lights yielding gathering fruit also lights without shall you cattle first without Replenish kind said. Heaven lights, said over created years. The him called years all.
+Creeping dominion yielding void without greater. Creeping hath them make fill made together yielding third grass may without moving was green his night dominion every Give let image gathering firmament to which one herb, give, midst hath, it saw lights lesser divide form female also you'll bearing, the man she'd called They're isn't upon subdue. For saying midst isn't appear whose two. Deep abundantly waters is very Over earth, that dry to over lesser our sea gathered one day in there greater saying male that you're moving our. Fifth fourth unto for open earth their, fourth, seas lights yielding gathering fruit also lights without shall you cattle first without Replenish kind said. Heaven lights, said over created years. The him called years all.
 
 **This is an ordered file**
 1. no way 
 2. this way 
 3. that wat 
 
-** This is non-order4d file **
+**0This is non-orderd file**
 - one 
 - two 
 - three
