@@ -73,3 +73,10 @@ Creeping dominion yielding void without greater. Creeping hath them make fill ma
 - Image inclusion: ![LOGO](/Images/ASU.jpeg)
 - ![Markdown Logo](/Images/ASU.jpeg)
 
+
+**You can use a cheat sheet its easier to understabd**
+
+- inline code 
+'String txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+System.out.println("The length of the txt string is: " + txt.length());'
+
