@@ -99,7 +99,7 @@ String myText = "Hello"
 - Task list check list
 
 - [x] Does the employee lives in Amman ?
-- [x] Does the employee ride public transport to reach work ?
+- [] Does the employee ride public transport to reach work ?
 - [x] Does the employee feels safty in the work envorment ?
 
 - Block Code
